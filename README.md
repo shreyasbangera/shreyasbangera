@@ -1,7 +1,7 @@
 ### Hi there👋, I'm Shreyas 
 
 # 💫 About Me:
-I'm a Electronics and Communication Engineering Graduate passionate about Web Development.<br> I offer expertise in Frontend Development using ReactJS library<br><br>I have developed some Frontend Projects using ReactJS, JavaScript which you can checkout in my projects section.<br><br>Have a project in mind? or Want to know anything about me?<br><br>Hit me up: 📧 shreyasybangera1@gmail.com
+I'm a Electronics and Communication Engineering Graduate passionate about Web Development.<br> I offer expertise in Frontend Development using ReactJS library.<br><br>I have developed some Frontend Projects using ReactJS, JavaScript which you can checkout in my projects section.<br><br>Have a project in mind? or Want to know anything about me?<br><br>Hit me up: 📧 shreyasybangera1@gmail.com
 
 
 ## 🌐 Socials:
